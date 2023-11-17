@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Developer-Ayers
 - 👀 I’m interested in ...designing web applications and extensions.
-- 🌱 I’m currently learning ...How to build extensions
+- 🌱 I’m currently learning ...How to build Game extensions
 - 💞️ I’m looking to collaborate on ...many many projects.
 - 📫 How to reach me ...shellayers5@outlook.com
 
